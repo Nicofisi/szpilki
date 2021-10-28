@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/szpilki/static/css/main.e376a73a.chunk.css",
-    "main.js": "/szpilki/static/js/main.f7021d03.chunk.js",
-    "main.js.map": "/szpilki/static/js/main.f7021d03.chunk.js.map",
+    "main.js": "/szpilki/static/js/main.8a42f047.chunk.js",
+    "main.js.map": "/szpilki/static/js/main.8a42f047.chunk.js.map",
     "runtime-main.js": "/szpilki/static/js/runtime-main.a073cfd1.js",
     "runtime-main.js.map": "/szpilki/static/js/runtime-main.a073cfd1.js.map",
-    "static/js/2.ccc482c2.chunk.js": "/szpilki/static/js/2.ccc482c2.chunk.js",
-    "static/js/2.ccc482c2.chunk.js.map": "/szpilki/static/js/2.ccc482c2.chunk.js.map",
+    "static/js/2.262903e5.chunk.js": "/szpilki/static/js/2.262903e5.chunk.js",
+    "static/js/2.262903e5.chunk.js.map": "/szpilki/static/js/2.262903e5.chunk.js.map",
     "index.html": "/szpilki/index.html",
     "static/css/main.e376a73a.chunk.css.map": "/szpilki/static/css/main.e376a73a.chunk.css.map",
-    "static/js/2.ccc482c2.chunk.js.LICENSE.txt": "/szpilki/static/js/2.ccc482c2.chunk.js.LICENSE.txt",
+    "static/js/2.262903e5.chunk.js.LICENSE.txt": "/szpilki/static/js/2.262903e5.chunk.js.LICENSE.txt",
     "static/media/WUZETKI-RĘKA-LETSS-GO (2)-001.jpg": "/szpilki/static/media/WUZETKI-RĘKA-LETSS-GO (2)-001.2c2af00e.jpg",
     "static/media/WUZETKI-RĘKA-LETSS-GO (2)-002.jpg": "/szpilki/static/media/WUZETKI-RĘKA-LETSS-GO (2)-002.bcfe976e.jpg",
     "static/media/WUZETKI-RĘKA-LETSS-GO (2)-003.jpg": "/szpilki/static/media/WUZETKI-RĘKA-LETSS-GO (2)-003.261e5a04.jpg",
@@ -237,8 +237,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a073cfd1.js",
-    "static/js/2.ccc482c2.chunk.js",
+    "static/js/2.262903e5.chunk.js",
     "static/css/main.e376a73a.chunk.css",
-    "static/js/main.f7021d03.chunk.js"
+    "static/js/main.8a42f047.chunk.js"
   ]
 }
